@@ -1,7 +1,0 @@
-README.md
-setup.py
-pi4ioe5v9xxxx/__init__.py
-pi4ioe5v9xxxx_antonverburg.egg-info/PKG-INFO
-pi4ioe5v9xxxx_antonverburg.egg-info/SOURCES.txt
-pi4ioe5v9xxxx_antonverburg.egg-info/dependency_links.txt
-pi4ioe5v9xxxx_antonverburg.egg-info/top_level.txt
